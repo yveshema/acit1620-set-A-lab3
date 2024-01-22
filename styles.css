@@ -28,5 +28,14 @@ form button {
     margin-left: auto;
 }
 
+/* HEADER STYLES */
+header {
+    background-color: teal;
+    color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
 
  
